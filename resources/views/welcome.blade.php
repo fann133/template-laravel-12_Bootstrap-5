@@ -10,7 +10,7 @@
 <body>
     <div class="container py-5">
         <div class="alert alert-primary text-center">
-            <p>Ini adalah Laravel 12 dengan Bootstrap 5</p>
+            <p>Ini adalah Laravel 12 dengan Bootstrap 5 <i class="fa-solid fa-thumbs-up"></i></p>
             <p>Selamat Membuat Project Anda <i class="bi bi-hand-thumbs-up-fill"></i></p>
         </div>
     </div>
